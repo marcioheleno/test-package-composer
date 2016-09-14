@@ -1,5 +1,5 @@
 {
-  "name":"Marcio-packte/learning-composer",
+  "name":"marcio-packte/learning-composer",
   "description":"Package test",
   "require":{
     "php":">=5.4",
